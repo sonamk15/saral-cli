@@ -1,0 +1,16 @@
+{
+  "name": "saral_clone",
+  "version": "1.0.0",
+  "description": "this is my first project on saral clone",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonam kumawat",
+  "license": "ISC"
+}
